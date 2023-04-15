@@ -1,5 +1,7 @@
 <?php
 
+//controlador edit
+
 // peticion get para traer información del crud
 
 if($_SERVER['REQUEST_METHOD']=='GET'){
